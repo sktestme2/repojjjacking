@@ -1,3 +1,3 @@
 # repojjjacking
 
-## This is repojacking test repository (attacker)
+## This is repojacking test repository (victim)
